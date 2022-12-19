@@ -1,2 +1,5 @@
 The turtle module shape() and size() methods
 https://docs.python.org/3/library/turtle.html#turtle.shape
+
+The turtle module write() methods
+https://docs.python.org/3/library/turtle.html#turtle.write
