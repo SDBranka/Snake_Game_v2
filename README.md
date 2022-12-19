@@ -22,13 +22,12 @@ Version 2 of the Snake Game.
         <ul>
             <li>Snake grows by one segment</li>
             <li>Score increases by one</li>
-        </ul>
-        </li>
+        </ul></li>
     </ul></li>
 
--list head
---list sub
----list sub sub
+- list head
+-- list sub
+--- list sub sub
 
 ##### Controls
 
