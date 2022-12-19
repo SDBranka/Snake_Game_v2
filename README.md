@@ -65,4 +65,4 @@ Download or clone this repository to your desktop. Run main.py in an appropriate
 - https://github.com/SDBranka/_100DOP_Exercises
 
 \
-[Back To The Top](#snake-game)
+[Back To The Top](#snake-game-v2)
