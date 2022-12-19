@@ -18,7 +18,13 @@ Version 2 of the Snake Game.
 <ul>
 <li>Snake can move around the screen</li>
 <li>Food is produced and can be consumed
-<ul><li>If food is consumed<ul><li>Snake grows by one segment</li><li>Score increases by one</li></ul></li></ul></li>
+    <ul><li>If food is consumed
+        <ul>
+            <li>Snake grows by one segment</li>
+            <li>Score increases by one</li>
+        </ul>
+        </li>
+    </ul></li>
 
 ##### Controls
 
