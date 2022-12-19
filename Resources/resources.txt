@@ -1,0 +1,2 @@
+The turtle module shape() and size() methods
+https://docs.python.org/3/library/turtle.html#turtle.shape
