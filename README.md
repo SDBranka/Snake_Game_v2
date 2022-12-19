@@ -24,8 +24,12 @@ Version 2 of the Snake Game.
                 <li>Score increases by one</li>
             </ul></li>
         </ul></li>
-    <li>Snake cannot leave the playable screen</li>
-    <li>If the snake touches itself the game is over</li>
+    <li>Game Over occurs if
+        <ul>
+            <li>The snake touches itself</li>
+            <li>The snake touches the boundaries of the playable screen</li>
+        </ul>
+    </li>
 </ul>
 
 ##### Controls
