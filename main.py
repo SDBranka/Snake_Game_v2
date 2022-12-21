@@ -10,7 +10,7 @@ screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
 screen.title("My Snake Game V2")
-# set tracer to 0 to enable using the update method
+# turn off screen animations so that we can use the update() method
 screen.tracer(0)
 
 # create scoreboard

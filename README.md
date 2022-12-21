@@ -12,7 +12,6 @@
     <img src="https://github.com/SDBranka/Snake_Game_v2/blob/main/Resources/Chasing_Food_screenshot.png" width=30% alt="gameplay image"/>
     <img src="https://github.com/SDBranka/Snake_Game_v2/blob/main/Resources/Snake_Growing_screenshot.png" width=30% alt="gameplay image"/>
     <img src="https://github.com/SDBranka/Snake_Game_v2/blob/main/Resources/Game_Over_screenshot.png" width=30% alt="gameplay image"/>
-
 </p>
 
 ## Description
